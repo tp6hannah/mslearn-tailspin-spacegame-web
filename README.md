@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/yihanachen/mslearn-dotnet-demo/_apis/build/status/tp6hannah.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/yihanachen/mslearn-dotnet-demo/_build/latest?definitionId=7&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
